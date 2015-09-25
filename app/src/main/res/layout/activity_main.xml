@@ -35,37 +35,37 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:src="@drawable/phone"
-                android:layout_marginTop="14dp"
-                android:layout_marginBottom="14dp" />
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp" />
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textSize="24sp"
                 android:fontFamily="sans-serif-light"
-                android:layout_marginTop="14dp"
-                android:layout_marginRight="14dp"
-                android:layout_marginBottom="14dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="10dp"
                 android:text="+12-3456-7890-1234" />
         </LinearLayout>
         <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="80dp"
             android:orientation="horizontal"
-            android:layout_marginTop="15dp">
+            android:layout_marginTop="12dp">
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:src="@drawable/home"
-                android:layout_marginTop="14dp"
-                android:layout_marginBottom="14dp" />
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp" />
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textSize="24sp"
                 android:fontFamily="sans-serif-light"
-                android:layout_marginTop="14dp"
-                android:layout_marginRight="14dp"
-                android:layout_marginBottom="14dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="10dp"
                 android:text="blah blah blah blah blah, 2839" />
         </LinearLayout>
     </LinearLayout>
